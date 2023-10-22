@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "9FBD1993-9D20-43F3-9503-673310C48291"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "7C9C23DE-94F5-413C-BC8D-CC7F41043EB6"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "WidgetTestv2Widget/DoSomethingIntent.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "54"
+            endingLineNumber = "54"
+            landmarkName = "perform()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "7C9C23DE-94F5-413C-BC8D-CC7F41043EB6 - 9e905d2483bd5918"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(1) suspend resume partial function for WidgetTestv2WidgetExtension.DoSomethingIntent.perform() async throws -&gt; some"
+                  moduleName = "WidgetTestv2WidgetExtension"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/chris/Developer/WidgetTestv2/WidgetTestv2Widget/DoSomethingIntent.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "56"
+                  endingLineNumber = "56"
+                  offsetFromSymbolStart = "1780">
+               </Location>
+               <Location
+                  uuid = "7C9C23DE-94F5-413C-BC8D-CC7F41043EB6 - 9e905d2483bd46da"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(1) suspend resume partial function for WidgetTestv2WidgetExtension.DoSomethingIntent.perform() async throws -&gt; some"
+                  moduleName = "WidgetTestv2WidgetExtension"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/chris/Developer/WidgetTestv2/WidgetTestv2Widget/DoSomethingIntent.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "54"
+                  endingLineNumber = "54"
+                  offsetFromSymbolStart = "2788">
+               </Location>
+               <Location
+                  uuid = "7C9C23DE-94F5-413C-BC8D-CC7F41043EB6 - 9e905d2483bd46da"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(1) suspend resume partial function for WidgetTestv2WidgetExtension.DoSomethingIntent.perform() async throws -&gt; some"
+                  moduleName = "WidgetTestv2WidgetExtension"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/chris/Developer/WidgetTestv2/WidgetTestv2Widget/DoSomethingIntent.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "54"
+                  endingLineNumber = "54"
+                  offsetFromSymbolStart = "2804">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
